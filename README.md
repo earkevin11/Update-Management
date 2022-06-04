@@ -15,7 +15,22 @@ What is the purpose of Update Management for Virtual Machines?
 - Create a log-analytics workspace.
 
 
+# Set up two Virtual Machines - One Windows and one Linux in a different virtual network
+
+
 # Connect the analytics workspace to the automation account
-- Navigate to update management
+- Navigate to update management and add the virtual machines 
 
+-Windows Machine in a different vnet
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/172025447-23b9e29b-f2b3-436c-a142-638e2b6d5336.png)" height="100%" width="100%" alt="application gateway"/>
 
+<p/>
+
+- Linux Ubuntu machine in a different vnet
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/172025461-e77c3ff0-00ba-43e3-ac43-1b226bc8e776.png)" height="100%" width="100%" alt="application gateway"/>
+
+<p/>
