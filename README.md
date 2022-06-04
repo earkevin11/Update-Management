@@ -13,3 +13,9 @@ What is the purpose of Update Management for Virtual Machines?
 - Spin up two machines based on Windows and Linux 
 - Create an Azure Automation Account, which is responsible for applying the updates. Only some regions are supported.
 - Create a log-analytics workspace.
+
+
+# Connect the analytics workspace to the automation account
+- Navigate to update management
+
+
