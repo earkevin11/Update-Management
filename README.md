@@ -34,3 +34,12 @@ What is the purpose of Update Management for Virtual Machines?
 <img src="https://user-images.githubusercontent.com/104326475/172025461-e77c3ff0-00ba-43e3-ac43-1b226bc8e776.png" height="65%" width="65%" alt="application gateway"/>
 
 <p/>
+
+# Create an Automation account 
+- This automation account will link the Linux Virtual Machines and Windows Virtual Machines and apply the updates
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/172034359-72248d84-619f-4668-8624-2f4b060171bd.png" height="65%" width="65%" alt="application gateway"/>
+
+<p/>
