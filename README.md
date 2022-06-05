@@ -24,13 +24,13 @@ What is the purpose of Update Management for Virtual Machines?
 -Windows Machine in a different vnet
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172025447-23b9e29b-f2b3-436c-a142-638e2b6d5336.png)" height="100%" width="100%" alt="application gateway"/>
+<img src="https://user-images.githubusercontent.com/104326475/172025447-23b9e29b-f2b3-436c-a142-638e2b6d5336.png" height="65%" width="65%" alt="application gateway"/>
 
 <p/>
 
 - Linux Ubuntu machine in a different vnet
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172025461-e77c3ff0-00ba-43e3-ac43-1b226bc8e776.png)" height="100%" width="100%" alt="application gateway"/>
+<img src="https://user-images.githubusercontent.com/104326475/172025461-e77c3ff0-00ba-43e3-ac43-1b226bc8e776.png" height="65%" width="65%" alt="application gateway"/>
 
 <p/>
