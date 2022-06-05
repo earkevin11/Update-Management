@@ -21,7 +21,7 @@ What is the purpose of Update Management for Virtual Machines?
 # Connect the analytics workspace to the automation account
 - Navigate to update management and add the virtual machines 
 
--Windows Machine in a different vnet
+- Windows Machine in a different vnet
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/172025447-23b9e29b-f2b3-436c-a142-638e2b6d5336.png" height="65%" width="65%" alt="application gateway"/>
