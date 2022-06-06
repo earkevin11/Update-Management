@@ -43,3 +43,10 @@ What is the purpose of Update Management for Virtual Machines?
 <img src="https://user-images.githubusercontent.com/104326475/172034359-72248d84-619f-4668-8624-2f4b060171bd.png" height="65%" width="65%" alt="application gateway"/>
 
 <p/>
+
+
+
+# Dynamic Groups
+- Admins can update machines based on certain conditions
+- It can be based on machines within a particular resource groups or location or tags!
+- Instead of manually adding virtual machines
