@@ -52,3 +52,9 @@
 - Admins can update machines based on certain conditions
 - It can be based on machines within a particular resource groups or location or tags!
 - Instead of manually adding virtual machines
+
+
+
+# Alternative to Update Management - Automatic VM Guest Patching
+- This service auto-updates your Azure Virtual Machines during off-peak hours.
+- Update Management uses the Azure Automation service to provide updates.
