@@ -1,10 +1,16 @@
 # Update-Management
 
 # What is the purpose of Update Management for Virtual Machines?
-- Service allows companies to manage the deployment of updates on virtual machines within on-premises envionrment or Azure Virtual Machines
+- Azure Update Management Service allows companies to manage the deployment of updates on Windows and Linux servers/virtual machines from a single location - for both on-premises envionrment AND Azure environments
+- Update Management is available at no additional cost (companies only pay for the log data that Azure Log Analytics stores), and companies can easily enable it for Azure and on-premises Virtual Machines.
+
+
+# Benefits
+- Simple and easy to configure
+- An up-to-date machine provides a secure environment. Think of security in layers.
 
 # What is required to implement Update Management?
-- Companies would need to install log analytics agent on Azure VMs or manually on on-premises machines
+- Companies would need to install Log Analytics Agent for Windows and Linux needs to be installed on the Azure VMs or manually on their on-premises machines in order to enable the virtual machines with Update Management.
 - Data would be sent to a Log-analytics workspace and update management service would understand the data and see what is missing from the machines
 - Scans can be performed for Linux or Windows machines
 - From there, Azure Automation account can be responsible for updating the machines
@@ -18,7 +24,6 @@
 
 
 # Set up two Virtual Machines - One Windows and one Linux in a different virtual network
-
 
 # Connect the analytics workspace to the automation account
 - Navigate to update management and add the virtual machines 
